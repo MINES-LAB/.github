@@ -41,7 +41,7 @@ Department of Artificial Intelligence and Robotics, Sejong University
 - **Muhammad Zubair Islam** · [Scholar](https://scholar.google.com/citations?user=EASguk4AAAAJ&hl=en)
 
 ### Full-time Researchers
-- **김태인 (Kim Tae-in)** — AI Robot, VLM/LLM · [Scholar](https://scholar.google.com/citations?user=XtHr9SAAAAAJ&hl=en)
+- **김태인 (Kim Tae-in)** — AI Robot, VLM/LLM
 - **박윤진 (Park Yun-jin)** — Data Analysis
 
 ### Research Assistants
@@ -51,8 +51,6 @@ Department of Artificial Intelligence and Robotics, Sejong University
 - **Abbas Saqalain** — Vision AI
 - **Sahil Ali Jatoi** — Vision AI · [Scholar](https://scholar.google.com/citations?user=oZ25nlwAAAAJ&hl=en)
 - **최한별 (Choi Han-byeol)** — AI Robot, Vision AI
-- **임시현 (Im Si-hyeon)** — AI Robot, Vision AI
-- **이헌성 (Lee Heon-seong)** — AI Robot, Vision AI
 - **변상원 (Byeon Sang-won)** — AI Robot
 - **Prithwis Das** — On-device AI, LLM · [Scholar](https://scholar.google.com/citations?user=OvbYmNwAAAAJ&hl=en)
 
