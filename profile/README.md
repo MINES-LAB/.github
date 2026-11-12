@@ -47,12 +47,16 @@ Department of Artificial Intelligence and Robotics, Sejong University
 ### Research Assistants
 - **권효정 (Kwon Hyo-jeong)** — AI Robot, Vision AI
 - **송현교 (Song Hyeon-gyo)** — AI Robot, VLM/LLM
-- **정희호 (Heeho Jung)** — AI Robot, VLM/LLM
+- **정희호 (Jung Hee-ho)** — AI Robot, VLM/LLM
 - **Abbas Saqalain** — Vision AI
 - **Sahil Ali Jatoi** — Vision AI · [Scholar](https://scholar.google.com/citations?user=oZ25nlwAAAAJ&hl=en)
+- **강호연 (Kang Ho-yeon)** - Vision AI
 - **최한별 (Choi Han-byeol)** — AI Robot, Vision AI
 - **변상원 (Byeon Sang-won)** — AI Robot
 - **Prithwis Das** — On-device AI, LLM · [Scholar](https://scholar.google.com/citations?user=OvbYmNwAAAAJ&hl=en)
+- **최재하** - On Device AI Humanoid Robot
+- **최승현** - On Device AI Humanoid Robot
+- **이석** - On Device AI Humanoid Robot
 
 <!-- Romanizations of Korean names are best-guess — adjust to each member's preferred spelling. -->
 
